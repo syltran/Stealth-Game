@@ -8,7 +8,7 @@
 Développer en C un jeu d'infiltration, un jeu d'action dans lequel un personnage doit récupérer des reliques dans une salle sans être détecté par les gardiens qui s'y trouvent à l'intérieur.
 
 **Sujet :**  
-Voir le [sujet]()
+Voir le [sujet](https://github.com/syltran/Stealth-Game/blob/master/sujet_projet-stealth.pdf)
 
 ---
 
@@ -21,4 +21,4 @@ make
 Pour savoir comment jouer, regardez la documentation utilisateur.
 
 **Documentation Technique et Utilisateur :**  
-Voir le fichier [rapport]()
+Voir le fichier [rapport.pdf](https://github.com/syltran/Stealth-Game/blob/master/doc/rapport.pdf)
