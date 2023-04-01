@@ -2,7 +2,7 @@
 
 **Auteurs :** Tran Sylvain, Guerroui Lina
 
-**Date :** fin 2022 - début 2023 (L3, semestre 1)
+**Date :** fin 2022 - début 2023 (L3, semestre 5)
 
 **Objectif :**  
 Développer en C un jeu d'infiltration, un jeu d'action dans lequel un personnage doit récupérer des reliques dans une salle sans être détecté par les gardiens qui s'y trouvent à l'intérieur.
