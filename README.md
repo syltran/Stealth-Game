@@ -12,12 +12,18 @@ Voir le [sujet](https://github.com/syltran/Stealth-Game/blob/master/sujet_projet
 
 ---
 
+## Prérequis :
+L'interface graphique du jeu est réalisée avec la bibliothèque graphique `libMLV`.  
+Vous y trouverez le guide d'installation et la documentation [ici](http://www-igm.univ-mlv.fr/~boussica/mlv/index.html)
+
 ## Usage :
 Pour lancer le jeu, tapez :  
 ```
 make
 ./game
 ```
+Vous pouvez taper `make clean` pour nettoyer le projet.
+
 Pour savoir comment jouer, regardez la documentation utilisateur.
 
 **Documentation Technique et Utilisateur :**  
