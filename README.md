@@ -24,6 +24,7 @@ make
 ```
 Vous pouvez taper `make clean` pour nettoyer le projet.
 
+**Comment jouer ? :**  
 Pour savoir comment jouer, regardez la documentation utilisateur.
 
 **Documentation Technique et Utilisateur :**  
